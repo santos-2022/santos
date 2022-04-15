@@ -1,0 +1,3 @@
+## Folder Description
+
+This folder contains the outputs and statistics of union search. For example, the raw csv files containing the results for each query table on Real Data Lake benchmark by SANTOS and D3L with manual accuracy verifications ara available here. Each file contains query table name in the first column, data lake table name in the second column and the unionability score where, 1 means unionable and 0 means not unionable.
