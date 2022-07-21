@@ -11,6 +11,7 @@ the problem of KBs having limited coverage over a data lake.
 - **codes** folder contains SANTOS source codes for preprocessing yago, creating synthesized knowledge base, preprocessing data lake tables using yago and querying top-k SANTOS unionable tables.
 - **groundtruth** folder contains the groundtruth files used to evaluate precision and recall.
 - **hashmap** folder contains indexes built during the preprocessing phase.
+- **images** folder contains supplementary images submitted with the paper.
 - **stats** folder contains SANTOS output files related to top-k search results and efficiency.
 - **yago** folder contains the original and indexed yago files.
 - **README.md** file explains the repository.
